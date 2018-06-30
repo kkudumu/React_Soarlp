@@ -1,12 +1,9 @@
-import React, { Component, Text } from 'react';
-import Card from '@material-ui/core/Card';
-import CardActions from '@material-ui/core/CardActions';
-import CardContent from '@material-ui/core/CardContent';
-import CardMedia from '@material-ui/core/CardMedia';
+import React, { Component } from 'react';
 import Button from '@material-ui/core/Button';
-import Typography from '@material-ui/core/Typography';
+
 
 import '../App.css';
+import shadows from '@material-ui/core/styles/shadows';
 
 
 
@@ -17,52 +14,85 @@ class Projects extends Component {
             
     <section className="portfolio" id="portfolio">
       <div className="container">
-        <h2 className="text-center text-uppercase text-secondary mb-0">Why Fall Prevention?</h2>
+        <h2 className="text-center text-uppercase text-secondary mb-0">Why Functional Fitness?</h2>
         <hr className="star-dark mb-5" />
         <div className="row" style={{justifyContent:'center'}}>
 
-         <h5>
-This is a call to caregivers, personal trainers, and exercise instructors who want to make an even bigger difference. We are looking for people who feel the pull to contribute to their community by doing something truly impactful.  Most likely you have already felt that desire to help, which has lead you to this position for this opportunity. We want to help you grow your career and offer you tools and knowledge for a successful future. 
+        <h5>
+        8000 Older people being hospitalized, each day, in our country is a national epidemic.  2000 treated for life-threatening concussions and/or broken bones.
+        <br/><br/>
         </h5>
+        
+       
+        <h3 style={{textAlign:'center', textShadow:'1px 1px 8px gray'}}>
+        Every 19 minutes a person dies from a preventable fall.
+        <br/><br/>
+        </h3>
 
-        <h2>
-Stop and consider this…
-        </h2>
-        <br/><br/><br/><br/>
         <h5>
-People falling in our country is a national epidemic.
-8,000 mothers, fathers, sisters and brothers end up in the hospital every day simply because they had a fall. 2,000 of those who end up in hospitals are treated for concussions and fractures that will cause them to completely lose their quality of life and too many end up in rehab centers lonely and scared just waiting to die. We are alarmed by mass shootings and natural disasters broadcast by the media each day, but they fail to report anything about the tsunami of 3 million “preventable falls” that claim over 27,000 lives each year.  That’s 575 people that die unnecessarily each week. Please do not turn your back on these good people that need your help. 
-</h5>
-<br/><br/>
-        <h5 style={{textAlign:'center'}}>
-The authorities have been attempting to address this problem since 2005 based on research and the teaching of hundreds of classes across the country each day, but the number of people falling continues to rise.
-        </h5>
-        <br/><br/>
-        <h2 style={{textAlign:'center'}}>
-There are better and more efficient and effective ways to help people avoid falling…and I want to share them with you. 
-        </h2>
-        <br/><br/>
-        <h5>
-For over 20 years, I have been working directly with hundreds of people with high risks of falling.  The techniques I want to share with you have been developed while working directly with individuals that have a myriad of fall risk challenges, so I know what really works. 
+        Mary, who exercised most of her life had never had a fall before,  was rushing to meet a friend for dinner when she tripped on a cable in the parking lot, she got up checked herself to make sure she was okay and went to dinner.  Two days later she fell again and this time broke her wrist and her hip. Once a picture of health, now she sits all day long housebound requiring a caregiver 24/7.                                        
         </h5>
         <br/>
 
         <h5>
-In this webinar you will learn how to help people determine their overall fall risk potential by understanding when, where, why and how they fall. We will explore the value of determining each person’s functional fall risk and why intervention is necessary.  You will learn the importance of an accurate Fall Risk Assessment Tool, Functional Mobility Skills Test and our Mobility and Balance Skills Assessment Tool.  We will evaluate the difference in functional fitness training versus athletic fitness training... there is a real difference! 
+        Harry, a fiercely independent man who lived alone, fell and broke his wrist.  That one fall changed his entire life.   Embarrassed and incapacitated by fear, he became a recluse and denied all help.   Not knowing how to cope, he deprived himself of food, water and socialization.  This caused the onset of severe dementia.   One night while trying to get up from his bed, Harry had his last fall that broke his hip and took his life.
         </h5>
         <br/>
+        
+        
         <h5>
- I believe that fall risk can only be reduced by properly trained caregivers, exercise instructors, and personal trainers working directly with people that have a risk of falling and they need you to act now.  Every minute you delay, 6 more people that you could have helped will fall.  Every 19 minutes someone dies from a “preventable fall”. 
+        Fred had what appeared to be a non-life-threatening fall.  He was unloading his car and accidently fell backward banging his head against the wall and he had some bruises and a cut on his arm that required a few stitches.  Fred was mobile and active taking care of his sickly wife and their home.  Two days after the fall, Fred was found lying on the floor dead due to what appeared to be a minor fall.
         </h5>
+        <br/>
+        <br/>
+
+        <h3 style={{textAlign:'center', textShadow:'1px 1px 8px gray'}}>
+        These three people represent the 3 million victims and families affected by falls each year.
+        In the time it will take for us to do this webinar, 300 people will go to the hospital; 80 will be treated for a serious injury and 3 will die.
         <br/><br/>
-        <h2 style={{textAlign:'center'}}>
-In this webinar, you will learn proven methods to build a connective, meaningful, and profitable career that will impact the lives of those in need, and the lives of the people that love them. 
-        </h2>
-        <br/><br/>
-        <h5 style={{textAlign:'center'}}>
-Sign-up now, so you do not miss this great opportunity to learn how to help save lives and/or how to earn a part-time income or build a career helping people fall proof their lives.
-<br/><br/><br/><br/>
+        </h3>
+
+        <h5>
+        Unless we do something, this threat will continue to devastate our communities and claim more and more lives.   
         </h5>
+        <br/>
+
+        <h5>
+        Think of the woman that fell in her home and laid on the floor helpless for 3 days before anyone found her just barely clinging to life.  These tragedies will continue happen over and over again until compassionate people like you and I decide to use our time and talent to teach people how to avoid falling. If we do nothing, more and more people will become disabled or die.
+        </h5>
+        <br/>
+
+        <h5>
+        My friends, it is extremely important that we rally together to help save lives.   Since 2005, the government has been tracking this crisis and has done their best to introduce, design, and fund exercise programs in an attempt reduce the number of people that are falling.   While we applause their efforts, it has not been enough to make any difference.   In fact, the number of falls each year continues to rise. 
+        </h5>
+        <br/>
+
+        <h5>
+        Our organization has over 20 years experience teaching people with high fall risk potential.   We have developed highly successful methods and we know that we can do better than what is currently being done. 
+        </h5>
+        <br/>
+
+        <h3 style={{textAlign:'center', textShadow:'1px 1px 8px gray'}}>
+        We urge you to join our webinar to find out how you can help. We are seeking caretakers/caregivers, fitness instructors, healthcare professionals, and all people who are committed to making a difference in their community. 
+       
+        </h3>
+
+
+        <h5>
+        <br/>
+        We work day in and day out teaching classes throughout Santa Clara County and are constantly seeking to train more and more people to go out into the community and help save lives.  
+        Despite our best efforts and determination, we can only do so much.  We cannot do this alone.  We need your help.  Come join us and let’s do something worthwhile that will benefit the entire human race. 
+        <br/>
+        </h5>
+        
+     
+
+        
+        <h3 style={{textAlign:'center', textShadow:'1px 1px 8px gray'}}>
+        <br/><br/>
+        Please join this webinar to learn how you can help people avoid falling and save lives.
+        <br/><br/>
+        </h3>
         
         <div style={{justifyContent:'center'}}>
         <div style={{textAlign:'center', border:'2px', borderColor:'black', borderStyle:'solid', padding:20}}>

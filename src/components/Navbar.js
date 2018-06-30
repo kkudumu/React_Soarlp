@@ -15,7 +15,7 @@ class Navbar extends Component {
                     <ul className="navbar-nav ml-auto">
 
                       <li className="nav-item mx-0 mx-lg-1">
-                        <a className="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#portfolio">Why Fall Prevention?</a>
+                        <a className="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#portfolio">Why Functional Fitness?</a>
                       </li>
 
                       <li className="nav-item mx-0 mx-lg-1">

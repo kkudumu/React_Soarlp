@@ -1,8 +1,7 @@
 
 import React, { Component } from 'react';
-import GridList from '@material-ui/core/GridList';
 import Grid from '@material-ui/core/Grid';
-import { GridListTile, Hidden } from '@material-ui/core';
+
 
 class Contact extends Component {
     render(){

@@ -9,7 +9,7 @@ class Header extends Component {
                 <header className="masthead bg-primary text-white text-center">
                     <div className="container">
                         <img className="img-fluid mb-5 d-block mx-auto" src="https://image.ibb.co/fsCruo/image1.jpg" alt="" />
-                        <h1 className="text-uppercase mb-0">How I earned $100k last year teaching fall prevention</h1>
+                        <h1 className="text-uppercase mb-0">Teaching Functional Fitness Saves Lives!</h1>
                         <hr className="star-light"/>
                         <h2 className="font-weight-light mb-0"><b>Presented by Mwezo Kudumu</b>,<hr/> Master Trainer
                                                                 Certified/Licensed Fall Prevention Specialist
