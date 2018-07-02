@@ -25,12 +25,12 @@ class Projects extends Component {
         
        
         <h3 style={{textAlign:'center', textShadow:'1px 1px 8px gray'}}>
-        Every 19 minutes a person dies from a preventable fall.
+        Every 19 minutes a person dies from a preventable fall. Consider...
         <br/><br/>
         </h3>
 
         <h5>
-        Mary, who exercised most of her life had never had a fall before,  was rushing to meet a friend for dinner when she tripped on a cable in the parking lot, she got up checked herself to make sure she was okay and went to dinner.  Two days later she fell again and this time broke her wrist and her hip. Once a picture of health, now she sits all day long housebound requiring a caregiver 24/7.                                        
+        Mary, who exercised most of her life had never had a fall before, was rushing to meet a friend for dinner, when she tripped on a cable in the parking lot. She got up, checked herself to make sure she was okay, and went to dinner. Two days later she fell again and this time broke her wrist and her hip. Once a picture of health, now she sits all day long housebound requiring a caregiver 24/7.                                        
         </h5>
         <br/>
 
@@ -41,7 +41,8 @@ class Projects extends Component {
         
         
         <h5>
-        Fred had what appeared to be a non-life-threatening fall.  He was unloading his car and accidently fell backward banging his head against the wall and he had some bruises and a cut on his arm that required a few stitches.  Fred was mobile and active taking care of his sickly wife and their home.  Two days after the fall, Fred was found lying on the floor dead due to what appeared to be a minor fall.
+        Fred had what appeared to be a non-life-threatening fall. He was unloading his car and accidentally fell backward banging his head against the wall.  He had some bruises and a minor cut on his arm that required a few stitches. Fred was mobile and active taking care of his sickly wife and their home. Two days after the fall, Fred was found lying on the floor dead due to what appeared to be a minor fall.
+
         </h5>
         <br/>
         <br/>
@@ -58,12 +59,12 @@ class Projects extends Component {
         <br/>
 
         <h5>
-        Think of the woman that fell in her home and laid on the floor helpless for 3 days before anyone found her just barely clinging to life.  These tragedies will continue happen over and over again until compassionate people like you and I decide to use our time and talent to teach people how to avoid falling. If we do nothing, more and more people will become disabled or die.
+        Think of the woman that fell in her home and laid on the floor helpless for 3 days before anyone found her just barely clinging to life. These tragedies will continue to happen over and over again until compassionate people like you and I decide to use our time and talent to teach people how to avoid falling. If we do nothing, more and more people will become disabled or die.
         </h5>
         <br/>
 
         <h5>
-        My friends, it is extremely important that we rally together to help save lives.   Since 2005, the government has been tracking this crisis and has done their best to introduce, design, and fund exercise programs in an attempt reduce the number of people that are falling.   While we applause their efforts, it has not been enough to make any difference.   In fact, the number of falls each year continues to rise. 
+        My friends, it is extremely important that we rally together to help save lives. Since 2005, the government has been tracking this crisis and has done their best to introduce programs that are designed to reduce the number of falls. While we applause their efforts, it has not been enough to make any difference. In fact, the number of falls each year continues to rise. 
         </h5>
         <br/>
 
@@ -73,7 +74,7 @@ class Projects extends Component {
         <br/>
 
         <h3 style={{textAlign:'center', textShadow:'1px 1px 8px gray'}}>
-        We urge you to join our webinar to find out how you can help. We are seeking caretakers/caregivers, fitness instructors, healthcare professionals, and all people who are committed to making a difference in their community. 
+        We urge you to join our webinar to find out how you can help. We are seeking  fitness instructors, healthcare professionals, caretakers/caregivers, and all people who are committed to making a difference in their community.
        
         </h3>
 
@@ -102,7 +103,7 @@ class Projects extends Component {
         </h5>
         <br/>
         <h5 style={{fontWeight:'bold'}}>
-        Tuesday, July 24
+        Thursday, July 26
         </h5>
         <br/>
         <h5 style={{fontWeight:'bold'}}>

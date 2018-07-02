@@ -8,10 +8,11 @@ class Header extends Component {
             <div>
                 <header className="masthead bg-primary text-white text-center">
                     <div className="container">
-                        <img className="img-fluid mb-5 d-block mx-auto" src="https://image.ibb.co/fsCruo/image1.jpg" alt="" />
-                        <h1 className="text-uppercase mb-0">Teaching Functional Fitness Saves Lives!</h1>
+                        {/* <img className="img-fluid mb-5 d-block mx-auto" src="https://image.ibb.co/fsCruo/image1.jpg" alt="" /> */}
+                        <img className="img-fluid mb-5 d-block mx-auto" src="https://preview.ibb.co/ikJAhJ/Enlarged_Fall_Pic_for_landing_page.jpg" alt="" />
+                        <h1 className="text-uppercase mb-0" style={{lineHeight:1}}>Teaching Functional Fitness Saves Lives!</h1>
                         <hr className="star-light"/>
-                        <h2 className="font-weight-light mb-0"><b>Presented by Mwezo Kudumu</b>,<hr/> Master Trainer
+                        <h2 className="font-weight-light mb-0"><b>Presented by Mwezo Kudumu</b>, Master Trainer <hr/>
                                                                 Certified/Licensed Fall Prevention Specialist
                         </h2>
                         <Button href="https://demio.com/" rel="noopener noreferrer" target="_blank" variant="contained" color="primary" style={{marginLeft:150, marginRight:150, marginTop: 50, width:300, height:50}}>
@@ -32,4 +33,5 @@ class Header extends Component {
 }
 
 export default Header;
+
 
