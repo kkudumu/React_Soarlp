@@ -7,6 +7,7 @@ class About extends Component {
             <div>
     <section className="bg-primary text-white mb-0" id="about">
       <div className="container">
+      <br/>
         <h2 className="text-center text-uppercase text-white">About Us</h2>
         <hr className="star-light mb-5"/>
         <div className="row">

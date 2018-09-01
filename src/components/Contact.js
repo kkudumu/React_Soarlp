@@ -1,6 +1,7 @@
 
 import React, { Component } from 'react';
 import Grid from '@material-ui/core/Grid';
+import MediaQuery from 'react-responsive';
 
 
 class Contact extends Component {
@@ -29,12 +30,12 @@ class Contact extends Component {
                             
                                 </Grid>
 
-                        </Grid>  
-                        <div style={{ fontSize: '30px', fontFamily: 'Anton', display:'inline-block', width:'500px', paddingLeft:25}}>
-                        <a href="mailto:info@soarfallprevention.com?Subject=Requesting Information" target="_top">info@soarfallprevention.com</a> 
+                        </Grid>
+                       
+                        <div style={{ fontSize: '30px', fontFamily: 'Anton', display:'flex', justifyContent:'center'}}>
+                        <a href="mailto:info@soarfallprevention.com?Subject=Requesting Information" target="_top" >info@soarfallprevention.com</a> 
                                 </div>
-                                             
-            
+                             
           </div>
         </div>
       </div>
